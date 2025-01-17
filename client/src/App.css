@@ -1,0 +1,48 @@
+/* App.css */
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to right, #FFB6C1 0%, #ADD8E6 100%);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.App {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.MuiAppBar-root {
+  background-color: rgba(63, 81, 181, 0.8); /* Semi-transparent for a subtle effect */
+}
+
+.MuiCard-root {
+  background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white */
+  border-radius: 15px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.MuiButton-root {
+  margin: 8px;
+}
+
+.MuiTextField-root {
+  margin: 10px 0;
+}
+
+footer {
+  background-color: rgba(63, 81, 181, 0.8); /* Matches AppBar */
+  color: white;
+  padding: 10px 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.MuiSnackbar-root {
+  z-index: 1500;
+}
+
