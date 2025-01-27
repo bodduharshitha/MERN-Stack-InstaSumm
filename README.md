@@ -26,7 +26,9 @@ Future enhancements include integrating multimedia elements, allowing users to u
 Ensure the following are installed on your system:  
 - Node.js  
 - npm or yarn  
-- MongoDB  
+- MongoDB
+
+Note : This project is currently in progress, with the implementation of MongoDB still underway. ⚠️
 
 ### **Steps**  
 1. Clone the repository:  
