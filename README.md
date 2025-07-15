@@ -19,18 +19,4 @@ Future enhancements include integrating multimedia elements, allowing users to u
 - **API**: Facebook BART API for text summarization  
 
 ---
-
-## **Installation and Setup**  
-
-### **Prerequisites**  
-Ensure the following are installed on your system:  
-- Node.js  
-- npm or yarn  
-- MongoDB
-
-Note : This project is currently in progress, with the implementation of MongoDB still underway. ⚠️
-
-### **Steps**  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/bodduharshitha/MERN-Stack-InstaSumm.git
+Note: Futher will include Quantum Computing for model fine tuning!
